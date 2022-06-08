@@ -1,5 +1,5 @@
 # Full Stack Course
->Title: This is the journal of my fullstack journey
+>Title: This is the journal of my fullstack journey 🚀
 
 
 >Skills:   
@@ -7,6 +7,6 @@
 
 |Topic|  Description & Project|
 |----|--------|
-ok|ok
+ How Internet Works?|ok
 no|no
 hmm|hmm
