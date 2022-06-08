@@ -1,12 +1,9 @@
 # Full Stack Course
-
-# This is my first step towards webdevelopment
-
-
-
 >Title: This is the journal of my fullstack journey
 
->Skills: ![HTML](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=html&logoColor=47c5fb)
+
+>Skills:   
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 
 |Topic|  Description & Project|
 |----|--------|
