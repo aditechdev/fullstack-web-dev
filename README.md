@@ -4,15 +4,12 @@
 
 
 
-|Title: First 
+>Title: This is the journal of my fullstack journey
 
+>Skills: ![HTML](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=html&logoColor=47c5fb)
 
-|Topic|  Description|
+|Topic|  Description & Project|
 |----|--------|
 ok|ok
 no|no
 hmm|hmm
-
-How Internet works  
-|gfhg|kjhlk|
-|---|---|
